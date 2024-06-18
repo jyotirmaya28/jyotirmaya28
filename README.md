@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Bachelors Of Science In Information Technology
 - 💞️ I’m looking to collaborate with back-end developer
 - 📫 How to reach me here is my email Id :- ijyotirmayatripathi@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
 
 <!---
 jyotirmaya28/jyotirmaya28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
